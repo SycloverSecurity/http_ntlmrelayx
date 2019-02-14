@@ -1,7 +1,5 @@
 # HTTP_NTLMRELAYX
 
------
-
 A Metasploit module for http->smb relay/reflection.
 Avoid some bugs in impacket, and add features not available in the same type of msf modules.
 
